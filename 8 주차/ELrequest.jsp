@@ -21,15 +21,15 @@
 			</tr>
 			<tr>
 				<td>이름</td>
-	    	<td>${m.name} </td>			
+	    	                <td>${m.name} </td>			
 			</tr>	
 			<tr>
 				<td>학년</td>
-		    <td>${m.grade} </td>		
+		                <td>${m.grade} </td>		
 			</tr>
 			<tr>
 				<td>선택과목</td>
-			  <td>${m.subject} </td>				
+			        <td>${m.subject} </td>				
 			</tr>				
 		</table>
 	</body>
